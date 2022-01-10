@@ -34,3 +34,14 @@ org.eclipse.wst.common.project.facet.core.xml
 org.eclipse.wst.jsdt.ui.superType.container
 org.eclipse.wst.jsdt.ui.superType.name
 org.eclipse.wst.validation.prefs
+/.tern-project
+/src/main/java/com/linkedin/learning/webservices/soap/stubs/GetIt.java
+/src/main/java/com/linkedin/learning/webservices/soap/stubs/GetItResponse.java
+/src/main/java/com/linkedin/learning/webservices/soap/stubs/MySOAPEndpoint.java
+/src/main/java/com/linkedin/learning/webservices/soap/stubs/MySOAPEndpointService.java
+/src/main/java/com/linkedin/learning/webservices/soap/stubs/ObjectFactory.java
+/src/main/java/com/linkedin/learning/webservices/soap/stubs/SalutationRequest.java
+/src/main/java/com/linkedin/learning/webservices/soap/stubs/SalutationResponse.java
+/src/main/java/com/linkedin/learning/webservices/soap/stubs/Salute.java
+/src/main/java/com/linkedin/learning/webservices/soap/stubs/SaluteResponse.java
+/src/main/java/com/linkedin/learning/webservices/soap/stubs/package-info.java
