@@ -1,5 +1,4 @@
 <html>
-<!-- 
 <head>
 	<script type="text/javascript">
 		var sseListener = new EventSource("http://localhost:8080/java-ee-webservices/webapi/sse/guest/Giov/salute")
@@ -10,8 +9,7 @@
 			outputNode.appendChild(document.createElement("br"));
 		};
 	</script>
-
-</head> -->
+</head> 
 
 <body>
 	<h2>Jersey RESTful Web Application!</h2>
@@ -28,6 +26,6 @@
 			<button type="submit">Say Hello to:</button>
 			<input type="text" name="guest">
 	</form>
-	<p><div id="sseOutput"/>
+	<p><div id="sseOutput"></div>
 </body>
 </html>
